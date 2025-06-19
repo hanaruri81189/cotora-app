@@ -1,0 +1,9 @@
+
+{
+  "name": "cotola-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.5.1"
+  }
+}
